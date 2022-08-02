@@ -5,7 +5,6 @@ https://www.mdpi.com/2076-3417/12/13/6396
 CFBLS_ Esn.py is a program to implement CMBESN model.  
 ```
 `CFBLS_ Esn.py`   
-
 GRU_ Duolie.py is a program that uses GRU model to predict multi column datasets.  
 ```
 `GRU_ Duolie.py`  
@@ -16,5 +15,4 @@ CFBLS_ESN_TEST.py and CFBLS_ ESN.py two programs only modify some parameters, an
 ```
 `CFBLS_ESN_TEST.py`  
 `CFBLS_ ESN.py`  
-
 Other.py files are explained according to the above, that is, the model name has changed.  
