@@ -20,3 +20,7 @@ CFBLS_ESN_TEST.py
 CFBLS_ESN.py  
 ```
 Other.py files are explained according to the above, that is, the model name has changed.  
+##data set
+```
+date set.rar  is the data set used in this paper.  
+```
