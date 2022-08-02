@@ -2,13 +2,13 @@
 ## Link to paper 
 https://www.mdpi.com/2076-3417/12/13/6396
 ## Running code
-CFBLS_ Esn.py is a program to implement CMBESN model.  
+CFBLS_ ESN.py is a program to implement CMBESN model.  
 ```
-`CFBLS_ Esn.py`   
+`CFBLS_ ESN.py`   
 ```
-GRU_ Duolie.py is a program that uses GRU model to predict multi column datasets.  
+GRU_ duolie.py is a program that uses GRU model to predict multi column datasets.  
 ```
-`GRU_ Duolie.py`  
+`GRU_ duolie.py`  
 ```
 GRU.py is a program that uses the GRU model to predict single column datasets.  
 ```
