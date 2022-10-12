@@ -4,7 +4,7 @@ Time series prediction is crucial for advanced control and management of complex
 ### Author
 Liu, Wen-Jie, Yu-Ting Bai, Xue-Bo Jin, Jian-Lei Kong, and Ting-Li Su.
 ### Cite this paper
-Liu, Wen-Jie, Yu-Ting Bai, Xue-Bo Jin, Jian-Lei Kong, and Ting-Li Su. 2022. "A Novel Broad Echo State Network for Time Series Prediction: Cascade of Mapping Nodes and Optimization of Enhancement Layer" Applied Sciences 12, no. 13: 6396. https://doi.org/10.3390/app12136396
+Liu, Wen-Jie, Yu-Ting Bai, Xue-Bo Jin, Jian-Lei Kong, and Ting-Li Su. 2022. "A Novel Broad Echo State Network for Time Series Prediction: Cascade of Mapping Nodes and Optimization of Enhancement Layer" Applied Sciences 12, no. 13: 6396.
 ## Link to paper 
 https://www.mdpi.com/2076-3417/12/13/6396
 ## Running code
